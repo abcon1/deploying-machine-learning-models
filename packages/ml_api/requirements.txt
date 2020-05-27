@@ -6,5 +6,5 @@ flask==1.0.2
 # schema validation
 marshmallow==2.20.1
 
-# Install from gemfury
+# Install from updated gemfury
 regression-model==1.0.0
